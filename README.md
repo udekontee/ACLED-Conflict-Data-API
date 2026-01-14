@@ -52,7 +52,6 @@ The API automatically generates OpenAPI / Swagger documentation at:
 
 http://localhost:8000/docs
 
-
 This interface is:
 
 - A developer tool, not a frontend application
